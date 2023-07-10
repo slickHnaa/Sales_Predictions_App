@@ -124,5 +124,11 @@ Step 5:📊 The app will then display the predicted sales value based on the inp
 The Streamlit Sales Prediction App is a valuable tool for store owners and managers, enabling them to predict and optimize their sales strategies for better business outcomes. 💪📊
 
 
+## Author
 
+`Henry Nii Ayitey-Adjin`
+
+`Data Analyst`
+
+`Azubi Africa`
 
