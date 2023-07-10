@@ -16,6 +16,10 @@ Given these features, the app predicts sales value, for a given period. 📊 Thi
 The Streamlit-sales-prediction-app is a valuable tool for store owners, enabling them to forecast their sales and optimize their strategies accordingly. 📈📉
 
 
+## Summary
+| Code      | Name        | Published Article |  Deployed App |
+|-----------|-------------|:-------------:|------:|
+| LP5 |Sales Prediction App with Streamlit|  [Sales Prediction article](https://medium.com/@hnayiteyadjin/sales-prediction-app-using-streamlit-2d3128a44e9a) | [Sales Prediction App](https://huggingface.co/spaces/slickdata/sales_prediction) |
 
 
 
