@@ -99,7 +99,7 @@ streamlit run lp4.py
 
 Alternatively, you can visit: click here ⬇️
 
-(https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app)
+(https://huggingface.co/spaces/slickdata/sales_prediction)
 
 By clicking on the image, you will be redirected to the Streamlit Grocery Sales Prediction App.
 
